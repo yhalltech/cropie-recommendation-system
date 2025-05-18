@@ -1,5 +1,5 @@
 Flask
-flasl-cors
+flask-cors
 gunicorn
 Jinja2
 joblib
